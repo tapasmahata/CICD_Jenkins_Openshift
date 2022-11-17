@@ -23,4 +23,4 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
-app.Rn();
+app.Run();
