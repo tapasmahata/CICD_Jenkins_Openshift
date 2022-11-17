@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-var x = 0;
+var x = 0; //The first commit that works 
 //Add services to the container.
 builder.Services.AddRazorPages();
 
